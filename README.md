@@ -34,3 +34,9 @@
     <img src="./arts/error.png" alt="Mobile view" width="250"/>
     <img src="./arts/loading.png" alt="Mobile view" width="250"/>
 </div>
+
+## Get started
+```sh
+   flutter pub get
+   dart run build_runner build
+```
