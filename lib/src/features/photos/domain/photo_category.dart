@@ -1,0 +1,1 @@
+enum PhotoCategory { newPhotos, popularPhotos }
